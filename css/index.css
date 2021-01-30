@@ -6,3 +6,6 @@
 .right {
 	margin-left: 0;
 }
+img {
+	width: inherit;
+}
